@@ -7,3 +7,5 @@ Nachdem er in den 1960er-Jahren zunächst in der Rolle des Geheimagenten James B
 * Github durchsuchen
 * Essen kochen
 * Computer spielen
+
+> Ich bin der Nabel der Welt!
