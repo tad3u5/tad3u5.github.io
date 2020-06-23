@@ -7,3 +7,5 @@ Nachdem er in den 1960er-Jahren zunächst in der Rolle des Geheimagenten James B
 * Github durchsuchen
 * Essen kochen
 * Computer spielen
+
+<img src="https://www.bilder-hochladen.net/files/4avn-1.jpg"/>
