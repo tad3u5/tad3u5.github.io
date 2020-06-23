@@ -8,4 +8,6 @@ Nachdem er in den 1960er-Jahren zunächst in der Rolle des Geheimagenten James B
 * Essen kochen
 * Computer spielen
 
+> Ich bin der Nabel der Welt!
+
 <img src="https://www.bilder-hochladen.net/files/4avn-1.jpg"/>
